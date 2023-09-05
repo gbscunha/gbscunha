@@ -7,5 +7,5 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/gbcunha/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gbscunha&show_icons=true&theme=dark&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/gist?id=gbscunha"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d"/>
 </div>
