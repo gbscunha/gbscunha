@@ -3,6 +3,7 @@
 <br>
 🌱 Atualmente estou aprendendo e explorando o mundo do desenvolvimento .NET
 <br>
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gbcunha/">
