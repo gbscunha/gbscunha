@@ -1,4 +1,4 @@
-# Olá, eu sou Gabriel Cunha.
+# Olá, eu sou o Gabriel Cunha.
 
 <br>
 🌱 Atualmente estou aprendendo e explorando o mundo do desenvolvimento .NET
