@@ -20,7 +20,7 @@
 <div>
   <a href="https://www.linkedin.com/in/gbcunha/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gbscunha&show_icons=true&theme=onedark"/>  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>    
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbscunha&layout=compact"/>    
 </div>
 
 </div>
