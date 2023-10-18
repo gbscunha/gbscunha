@@ -4,16 +4,10 @@
 🌱 Atualmente, estou focado em aprender sobre .NET e explorar as incríveis possibilidades que essa tecnologia oferece.
 <br>
 <br>
-💡 Além disso, tenho uma paixão especial por programar em Dart e Python. A versatilidade dessas linguagens me permite criar soluções criativas para uma variedade de problemas.
+💡 Além disso, tenho uma paixão especial por programar em Dart e Python. Pela versatilidade dessas linguagens me permite criar soluções criativas para uma variedade de problemas.
 <br>
 <br>
 🤖 Uma das coisas que mais me empolga na programação é a automação de processos. Adoro simplificar tarefas complexas e tornar a vida mais eficiente por meio da escrita de código.
-<br>
-<br>
-💬 Se você compartilha meu entusiasmo por programação, por favor, sinta-se à vontade para me seguir e acompanhar minha jornada de aprendizado. Vamos construir coisas incríveis juntos!
-<br>
-<br>
-📫 Você pode entrar em contato comigo aqui para colaborações ou troca de ideias. Vamos aprender e crescer juntos no mundo do desenvolvimento!
 <br>
 <br>
 
