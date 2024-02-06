@@ -1,13 +1,5 @@
 # Olá, eu sou o Gabriel Cunha.
 
-<br>
-🌱 Atualmente, estou focado em aprender sobre .NET e explorar as incríveis possibilidades que essa tecnologia oferece.
-<br>
-<br>
-🤖 Uma das coisas que mais me empolga na programação é a automação de processos. Gosto de simplificar tarefas complexas e tornar a vida mais eficiente por meio da escrita de código.
-<br>
-<br>
-
 <div>
   <a href="https://www.linkedin.com/in/gbcunha/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gbscunha&show_icons=true&theme=dark"/>  
