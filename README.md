@@ -1,4 +1,3 @@
-# Olá, eu sou o Gabriel Cunha.
 
 <div>
   <a href="https://www.linkedin.com/in/gbcunha/">
